@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Socket.IO chat</title>
+
+
+
+</head>
+
+<body>
+  <ul id="messages"></ul>
+
+  <script src="/socket.io-client/dist/socket.io.js"></script>
+  <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+  <script>
+    $(function () {
+      var jwt = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1aWQiOiJjbHViX3VzZXJzLzI4MTk3NCIsImlhdCI6MTUyMzk2ODkyNCwicGF5bG9hZCI6eyJkZWZhdWx0Q2x1YklkIjoiY2x1Yl9jbHVicy8yODE5NzUiLCJjdXJyZW50Q2x1YklkIjoiY2x1Yl9jbHVicy8yODE5NzUiLCJhZG1pblVzZXIiOiJjbHViX3VzZXJzLzI4MTk3NCJ9LCJleHAiOjE1MjM5NzI1MjR9.gSGh0kxyFI3IS8KGuw1xe9rvIJwgmAk_6M3fsiIKm42GvEFS4D5qiMXVwkaHh2fQmf6Z-GyPXXFqLDaFZ2_rTw';
+      var socket = io.connect('http://localhost:3001', {
+        'query': 'token=' + jwt,transports: ["websocket"] 
+      });
+      var nsm = io.connect('http://localhost:3001/menu', {
+        'query': 'token=' + jwt,transports: ["websocket"] 
+      });
+      var nst = io.connect('http://localhost:3001/tournament', {
+        'query': 'token=' + jwt,transports: ["websocket"] 
+      });
+
+      socket.on("tournament_addPlayer", function (msg) {
+        alert(JSON.stringify(msg));
+      });
+      socket.on("test", function (msg) {
+        console.log(msg);
+      });
+      socket.on("error", function (error) {
+        if (error.type == "UnauthorizedError" || error.code == "invalid_token") {
+          // redirect user to login page perhaps? 
+          console.log("User's token has expired");
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,186 @@
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: this.adapter.addAll is not a function
+    at Socket.join (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:248:16)
+    at Socket.onconnect (G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\socket.js:303:8)
+    at G:\Programs\Nosql\ArangoDB\Projects\ArrangoMicroService\fileSystem\node_modules\socket.io\lib\namespace.js:176:16
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)

@@ -1,0 +1,10 @@
+{
+    "dbServers": ["http://localhost:8529"],
+    "fileServers":["http://localhost:3001"],
+    "zkServer":["192.168.200.223:2181"],
+    "kafkaServer":["192.168.200.223:9092"],
+    "redisServer":["192.168.200.114"],
+    "addTaskConsumerGroupId":"appTasks_test",
+    "tournament_addPlayserConsumerGroupId":"tournament_addPlayserConsumer_test"
+   
+}
